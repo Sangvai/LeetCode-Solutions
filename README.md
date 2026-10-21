@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sangvai/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
