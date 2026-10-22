@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sangvai/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
