@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sangvai/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sangvai/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Sangvai/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
