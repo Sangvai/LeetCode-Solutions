@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sangvai/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0507-perfect-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2747-count-zero-request-servers](https://github.com/Sangvai/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sangvai/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Sangvai/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sangvai/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
